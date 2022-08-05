@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Research+IIC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Research+@+IIC)](https://git.io/typing-svg)
 
 
 ### The CyPSi Lab at the Institute of Informatics and Communication (IIC) offers an opportunity to be at the forefront of R&D in CPS & allied disciplines and collaborate with research groups worldwide to deal with real life challenges. The research outcomes are further developed as products by PnS groups, promoting entrepreneurship and delivery to intended audiences.
